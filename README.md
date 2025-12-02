@@ -1,5 +1,9 @@
 <p align="center">
   <img src="banner.jpg" />
+   <img src="https://img.shields.io/badge/Full_Stack-Builder-9A1AFF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product_Engineering-Live_Prototypes-00E7F6?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Deployments-0F0F0F?style=for-the-badge&logo=docker&logoColor=14F4FF" />
+  <img src="https://img.shields.io/badge/Always_Building-%F0%9F%9A%80-9A1AFF?style=for-the-badge" />
 </p>
 
 
