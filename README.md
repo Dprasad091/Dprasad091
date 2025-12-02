@@ -66,6 +66,6 @@ I chase both.
 
 ### 📬 Let’s connect
 📩 Reach out for collaboration / freelance / product building  
-🔗 **Portfolio (Coming Soon)**  
-🔗 **LinkedIn:** *add your link here*
+🔗 **Portfolio** https://durga-prasad-portfolio-15.vercel.app/
+🔗 **LinkedIn:** https://www.linkedin.com/in/durga-prasad-dumpala/
 
