@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.jpg" />
+</p>
+
+
 <h1 align="center">👋 Hi, I'm Durga Prasad — I build full-stack products end-to-end</h1>
 
 <p align="center">
