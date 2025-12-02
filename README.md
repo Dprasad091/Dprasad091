@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Durga — I build full-stack products end-to-end</h1>
 
-<!--
-**Dprasad091/Dprasad091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Turning real problems into scalable products with React, Node.js, TypeScript & Cloud.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚩 What drives me
+I love building things that become useful — fast.
+I experiment, ship, learn from usage, and iterate again.
+
+---
+
+### 🛠️ Current Build
+🚧 **Project:** Building a modern video-streaming platform  
+⚙️ **Stack:** React • Node.js • Express • MongoDB • JWT • WebSockets • Docker  
+🧠 **Focus now:** Latency reduction, adaptive video delivery, and interactive watch UX
+
+---
+
+### 🔥 My Flagship Projects
+| Product | What makes it interesting | Tech |
+|--------|----------------------------|------|
+| **Nxt Watch 2.0** | YouTube-like product with live chat, watch history & smart recommendations | React, Tailwind, Context API, REST, JWT |
+| **Video Streaming CDN** | Chunk-based streaming, transcoding pipeline, Redis caching | Node.js, WebRTC, FFmpeg, Redis, Docker |
+| **AI Code Mentor (VSCode)** | AI that reviews PRs and suggests fixes contextually | TypeScript, LangChain, OpenAI, WebSockets |
+
+> Live demos & repo links pinned below 👇
+
+---
+
+### 🧩 My Tech Playground
+I enjoy working across the stack:
+
+**Front-end:** React, Redux/Context, Tailwind, Vite, Next.js  
+**Back-end:** Node.js, Express, MongoDB, PostgreSQL, Redis  
+**Infra:** Docker, Nginx, CI/CD, Cloud (Render / Railway / AWS basics)  
+**Other:** WebSockets, JWT Auth, FFmpeg, microservices patterns
+
+---
+
+### 📈 Build Activity & Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 💡 Philosophy
+Products win when people enjoy using them.  
+Engineering wins when it scales without drama.  
+I chase both.
+
+---
+
+### 🤝 Open to collaborate on
+- Early-stage products & MVPs  
+- Developer tools  
+- Streaming / real-time systems  
+- Open-source that solves annoyingly common problems
+
+---
+
+### 📬 Let’s connect
+📩 Reach out for collaboration / freelance / product building  
+🔗 **Portfolio (Coming Soon)**  
+🔗 **LinkedIn:** *add your link here*
+
