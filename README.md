@@ -51,9 +51,8 @@ I enjoy working across the stack:
 
 ### 📈 Build Activity & Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=neon-palenight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
